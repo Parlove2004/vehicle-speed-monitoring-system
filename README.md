@@ -20,6 +20,10 @@ and visualization for traffic monitoring use cases.
 
 ##  Use Case
 - Traffic monitoring systems
+
+- Note: Sample data is used for demonstration purposes.
+In real-world deployment, data would be sourced from traffic sensors or a SQL database.
+
 - Overspeed violation analysis
 - Smart city traffic analytics
 
